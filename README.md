@@ -1,4 +1,4 @@
-# nereididae-phylogenomic
+# Robust phylogenomic inference through genome skimming as demonstrated by a systematic analysis of Nereididae
 
 This is the supplementary material for Felix Thalén's PhD thesis, "Robust phylogenomic inference through genome skimming as demonstrated by a systematic analysis of Nereididae".
 
